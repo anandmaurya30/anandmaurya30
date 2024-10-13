@@ -1,4 +1,4 @@
-<img src ="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" >
+<img src ="https://i.pinimg.com/originals/6a/e0/9d/6ae09d56f3894692b0c0c735a9882916.gif" width ="100%" >
 <h1 align="center">Hi 👋, I'm Anand Maurya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
