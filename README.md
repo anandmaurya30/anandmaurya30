@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anand Maurya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/refs/heads/master/coding.gif">
+
 <p> I'm a passionate programmer with over a year of experience in coding and web development. My journey began with curiosity, and since then, I’ve been dedicated to learning and improving my skills. I love building responsive, user-friendly websites.
 
 Currently, I'm exploring various technologies and diving deeper into front-end and back-end development.</p>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/refs/heads/master/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandmaurya30&label=Profile%20views&color=0e75b6&style=flat" alt="anandmaurya30" /> </p>
 
 - 🌱 I’m currently learning **React**
