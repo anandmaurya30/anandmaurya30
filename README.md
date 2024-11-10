@@ -11,6 +11,8 @@ Currently, I'm exploring various technologies and diving deeper into front-end a
 
 - 👯 I’m looking to collaborate on **Projects**
 
+- 👨‍💻 All of my projects are available at my GitHub Account
+
 - 💬 Ask me about **React and Gsap**
 
 - 📫 How to reach me **mauryaanand3010@gmail.com**
